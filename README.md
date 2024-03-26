@@ -6,12 +6,9 @@ This project is a task management application built using the MERN stack (MongoD
 
 ## About Development key area.
 
-Firt Clone code form repo. > install all dependency in both of side. > run frontend in fronted dir with npm start command and backend in root directory with npm run dev in development mode and npm start in production mode.
-Frontend in Fronted folder.
-Backend in root directory of project.
-Backend running on port 5000
-Backend :- http://localhost:5000
-Frontend :- http://localhost:3000
+First, clone the code from the repository. Then, ensure all dependencies are installed on both sides. To start the frontend, navigate to the "Fronted" directory and execute the command `npm start`. For the backend, run `npm run dev` in development mode and `npm start` in production mode from the root directory of the project.
+
+Please note that the frontend resides in the "Fronted" folder while the backend is located in the root directory of the project. The backend operates on port 5000 and can be accessed via `http://localhost:5000`, while the frontend runs on port 3000 and can be accessed via `http://localhost:3000`.
 
 # Getting Started with Create React App
 
